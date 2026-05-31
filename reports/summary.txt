@@ -1,0 +1,11 @@
+===== Log Analysis Report =====
+
+Total Logs        : 4
+INFO Logs         : 2
+WARN Logs         : 1
+ERROR Logs        : 1
+Critical Failures : 1
+Most Common Error :  Database connection failed
+Peak Error Hour   : 10:00
+Error Rate        : 25.00%
+Processing Time   : 0.00 seconds
